@@ -17,4 +17,4 @@
 
 ## 🐍 Watch the Snake eat my contributions!
 
-![snake](https://github.com/your-username/your-username/blob/output/github-snake.svg?raw=true)
+![snake](https://github.com/alex-w-developer/alex-w-developer/blob/output/github-snake.svg?raw=true)
