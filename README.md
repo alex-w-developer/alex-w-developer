@@ -12,9 +12,3 @@
 <!--
 **alex-w-developer/alex-w-developer** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
-
----
-
-## 🐍 Watch the Snake eat my contributions!
-
-![snake](https://github.com/alex-w-developer/alex-w-developer/blob/output/github-snake.svg?raw=true)
