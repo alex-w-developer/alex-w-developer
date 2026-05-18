@@ -2,8 +2,8 @@
 
 🎓 **Student**  
 💻 **Languages & Tools:** Python · JavaScript · HTML · CSS · SQL  
-🐍 **Currently Learning:** Advanced Python  
-🎵 **Hobbies:** Playing cello & ukulele
+🐍 **Currently Learning:** Advanced Python and trying to remember how Javascript works 😂
+🎵 **Hobbies:** Playing the cello & ukulele, and participating in science fairs
 
 ---
 
