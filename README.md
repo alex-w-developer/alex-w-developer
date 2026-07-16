@@ -2,7 +2,7 @@
 
 🎓 **Student**  
 💻 **Languages & Tools:** Python · JavaScript · HTML · CSS · SQL  
-🐍 **Currently Learning:** Advanced Python and trying to remember how Javascript works 😂  
+🔬 **Currently Doing:** Science Fair   
 🎵 **Hobbies:** Playing the cello & ukulele, and participating in science fairs
 
 ---
