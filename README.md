@@ -9,7 +9,6 @@
 
 ---
 
-> _Studying is the best insurance for your future._
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alex-w-developer/alex-w-developer/output/github-contribution-grid-snake-dark.svg">
