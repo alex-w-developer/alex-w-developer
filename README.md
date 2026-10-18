@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Alex
 
-![Profile Views](https://komarev.com/ghpvc/?username=alex-w-developer)
+![Profile Views](https://komarev.com/ghpvc/?username=alex-w-developer&color=blue&style=flat)
 
 🎓 **Student**  
 💻 **Languages & Tools:** Python · JavaScript · HTML · CSS · SQL  
